@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         h3place v4.0
+// @name         h3place v5.0
 // @namespace    http://tampermonkey.net/
-// @version      4.0
+// @version      5.0
 // @description  h3
 // @author       electric/qwigs/guppy
 // @match        https://garlic-bread.reddit.com/embed*
@@ -10,6 +10,8 @@
 // @connect      cdn.discordapp.com
 // @connect      h3place.ddns.net
 // @connect      raw.githubusercontent.com
+// @downloadURL  https://github.com/rnjohnson18/h3place/raw/main/h3rplace.user.js
+// @updateURL  https://github.com/rnjohnson18/h3place/raw/main/h3rplace.user.js
 // ==/UserScript==
 
 (() => {
