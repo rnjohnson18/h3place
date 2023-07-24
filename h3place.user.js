@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         h3place
 // @namespace    http://tampermonkey.net/
-// @version      5.0
+// @version      6.0
 // @description  h3
 // @author       electric/qwigs/guppy
 // @match        https://garlic-bread.reddit.com/embed*
