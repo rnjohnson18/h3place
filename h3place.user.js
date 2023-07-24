@@ -5,6 +5,8 @@
 // @description  h3
 // @author       electric/qwigs/guppy
 // @match        https://garlic-bread.reddit.com/embed*
+// @match        https://new.reddit.com/r/place/*
+// @match        https://www.reddit.com/r/place/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        GM_xmlhttpRequest
 // @connect      cdn.discordapp.com
@@ -17,7 +19,7 @@
 (() => {
     const imagens = [
         {
-            url: "https://raw.githubusercontent.com/rnjohnson18/h3place/main/entireboardwithh3.png",
+            url: "https://raw.githubusercontent.com/rnjohnson18/h3place/main/entireboardwithh3.png?token=$(date +%s)",
             x: -500,
             y: -500,
         },
