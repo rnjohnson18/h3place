@@ -17,7 +17,7 @@
         {
             url: "https://raw.githubusercontent.com/rnjohnson18/h3place/main/entireboardwithh3.png",
             x: -500,
-            y: -500,
+            y: -499,
         },
     ];
 
