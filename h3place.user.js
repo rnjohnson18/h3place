@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         h3place v5.0
+// @name         h3place
 // @namespace    http://tampermonkey.net/
 // @version      5.0
 // @description  h3
