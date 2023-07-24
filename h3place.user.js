@@ -19,7 +19,7 @@
 (() => {
     const imagens = [
         {
-            url: "https://raw.githubusercontent.com/rnjohnson18/h3place/main/entireboardwithh3.png?token=$(date +%s)",
+            url: "http://h3place.ddns.net/entireboardwithh3.png",
             x: -500,
             y: -500,
         },
